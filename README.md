@@ -6,7 +6,7 @@
 
 ### 直接ブラウザで動作を試すことができます：
 
-(https://siro-pj-tech.github.io/blog-archive/)
+[https://siro-pj-tech.github.io/blog-archive/]
 
 ## ✨ 主な機能
 
